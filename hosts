@@ -1,5 +1,5 @@
 # https://github.com/netnr/hosts
-# Last updated: 2018-09-26
+# Last updated: 2018-10-05
 
 
 # localhost
@@ -14,5 +14,4 @@
 151.101.76.133	avatars2.githubusercontent.com
 151.101.228.133	camo.githubusercontent.com
 192.30.253.118	gist.github.com
-151.101.76.133	assets-cdn.github.com
 151.101.76.249	github.global.ssl.fastly.net
