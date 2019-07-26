@@ -10,3 +10,13 @@
 - **Unix**  `/etc/hosts`
 
 ----------
+
+### Shadowsocks
+```
+{
+  "server": "ss.zme.ink",
+  "server_port": 99,
+  "password": "666666",
+  "method": "aes-256-gcm"
+}
+```
